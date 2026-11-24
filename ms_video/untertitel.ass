@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,3,18,0,2,90,90,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.90,Default,,0,0,0,,Mehr als 280.000 Menschen in Deutschland leben mit Multipler Sklerose.
+Dialogue: 0,0:00:05.41,0:00:07.50,Default,,0,0,0,,Aber was ist MS eigentlich?
+Dialogue: 0,0:00:08.17,0:00:11.10,Default,,0,0,0,,MS ist eine entzündliche Erkrankung
+Dialogue: 0,0:00:11.10,0:00:14.24,Default,,0,0,0,,des zentralen Nervensystems, also von Gehirn und Rückenmark.
+Dialogue: 0,0:00:14.74,0:00:17.50,Default,,0,0,0,,Das Immunsystem greift dabei fälschlicherweise
+Dialogue: 0,0:00:17.50,0:00:20.39,Default,,0,0,0,,die Schutzschicht der Nervenfasern an, das Myelin.
+Dialogue: 0,0:00:20.79,0:00:22.90,Default,,0,0,0,,Dadurch werden Nervensignale gestört.
+Dialogue: 0,0:00:23.50,0:00:27.95,Default,,0,0,0,,Meist wird MS zwischen dem 20. und 40. Lebensjahr festgestellt.
+Dialogue: 0,0:00:28.38,0:00:31.03,Default,,0,0,0,,Frauen erkranken etwa doppelt so häufig wie Männer.
+Dialogue: 0,0:00:31.59,0:00:34.70,Default,,0,0,0,,Erste Anzeichen können Sehstörungen, Kribbeln,
+Dialogue: 0,0:00:34.70,0:00:37.96,Default,,0,0,0,,Taubheitsgefühle oder Unsicherheit beim Gehen sein.
+Dialogue: 0,0:00:38.41,0:00:42.48,Default,,0,0,0,,Deshalb nennt man MS auch die Krankheit mit den tausend Gesichtern.
+Dialogue: 0,0:00:43.02,0:00:47.01,Default,,0,0,0,,Zu Beginn verläuft sie bei bis zu 90 % der Betroffenen in Schüben.
+Dialogue: 0,0:00:47.60,0:00:48.14,Default,,0,0,0,,Wichtig:
+Dialogue: 0,0:00:48.47,0:00:50.90,Default,,0,0,0,,MS ist nicht ansteckend, kein Muskelschwund
+Dialogue: 0,0:00:50.90,0:00:53.35,Default,,0,0,0,,und keine psychische Erkrankung.
+Dialogue: 0,0:00:53.78,0:00:56.48,Default,,0,0,0,,Und sie führt nicht automatisch in den Rollstuhl.
+Dialogue: 0,0:00:56.94,0:01:00.42,Default,,0,0,0,,MS ist bis heute nicht heilbar, aber behandelbar.
+Dialogue: 0,0:01:00.90,0:01:03.77,Default,,0,0,0,,Bei Beschwerden: ab zur Ärztin oder zum Arzt.
+Dialogue: 0,0:01:04.17,0:01:07.92,Default,,0,0,0,,Mehr Infos gibt es bei der Deutschen Multiple Sklerose Gesellschaft.

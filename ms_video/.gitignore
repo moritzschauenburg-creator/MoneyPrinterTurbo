@@ -1,0 +1,7 @@
+# Große Mediendateien nicht ins Git
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+!slides/*.png
