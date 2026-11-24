@@ -285,9 +285,9 @@ def overlays(fr, i, t):
         t0 = SCENES[i][1]
         put(fr, pill("Nicht heilbar –", 76, WHITE, None), W / 2, 330, t - (sh(56.94) - t0))
         put(fr, pill("aber behandelbar", 84, NAVY, ORANGE + (255,), pad=(44, 22)), W / 2, 460, t - (sh(59.1) - t0))
-        put(fr, pill("Bei Beschwerden ärztlich abklären lassen", 46), W / 2, 610, t - (sh(60.9) - t0))
-        put(fr, pill("Infos & Beratung:  dmsg.de", 58, NAVY, (255, 255, 255, 240), pad=(44, 26)), W / 2, 760, t - (sh(64.3) - t0))
-        put(fr, pill("Was willst du als Nächstes über MS wissen?  ↓ Kommentar", 44, WHITE, (0, 0, 0, 150), maxw=900), W / 2, 1000, t - (sh(66.2) - t0))
+        put(fr, pill("Bei Beschwerden ärztlich abklären lassen", 46), W / 2, 625, t - (sh(60.9) - t0))
+        put(fr, pill("Infos & Beratung:  dmsg.de", 58, NAVY, (255, 255, 255, 240), pad=(44, 26)), W / 2, 830, t - (sh(64.3) - t0))
+        put(fr, pill("Was willst du als Nächstes über MS wissen?  ↓ Kommentar", 44, WHITE, (0, 0, 0, 150), maxw=900), W / 2, 1060, t - (sh(66.2) - t0))
         put(fr, pill("Quelle: DMSG · Kein Ersatz für ärztlichen Rat · Bilder & Stimme KI-generiert", 28, (220, 230, 245), None, bold=False, maxw=1000), W / 2, 1835, t - 0.5)
 
 
